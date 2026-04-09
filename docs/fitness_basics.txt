@@ -1,0 +1,7 @@
+VO2 max is the maximum rate at which the body can use oxygen during exercise.
+
+Heart rate zones divide training intensity into ranges that correspond to percentages of maximum heart rate.
+
+Cadence refers to steps per minute during running. Increasing cadence can improve running efficiency.
+
+GPS-based devices estimate speed and distance using satellite signals, but elevation gain may contain noise.
