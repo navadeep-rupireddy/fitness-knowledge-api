@@ -8,6 +8,12 @@ The system exposes a FastAPI endpoint that answers fitness-related queries using
 
 Documents → Chunking → Embeddings → ChromaDB → Retriever → Mistral (local) → FastAPI endpoint
 
+## Environment
+
+Tested with Python 3.13+
+Local inference powered by Ollama (Mistral model)
+
 ## Status
 
 Project under active development.
+
