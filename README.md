@@ -46,15 +46,17 @@ Generated Answer
 
 ## Project Structure
 
+```
 fitness-knowledge-api/
 │
-├── app.py # FastAPI inference server
-├── ingest.py # document ingestion pipeline
-├── docs/ # knowledge base
-├── chroma_db/ # vector store (generated locally)
-├── models/ # local GGUF model (ignored in git)
+├── app.py              # FastAPI inference server
+├── ingest.py           # document ingestion pipeline
+├── docs/               # knowledge base
+├── chroma_db/          # vector store (generated locally)
+├── models/             # local GGUF model (ignored in git)
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
@@ -62,13 +64,17 @@ fitness-knowledge-api/
 
 ### 1. Clone repo
 
-git clone 
+```
+git clone <repo-url>
 cd fitness-knowledge-api
+```
 
 ### 2. Create environment
 
+```
 python -m venv venv
 source venv/bin/activate
+```
 
 ### 3. Install dependencies
 
