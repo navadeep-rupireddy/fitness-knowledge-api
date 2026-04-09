@@ -19,6 +19,7 @@ This system answers fitness-related questions using a private knowledge base wit
 
 ## Architecture
 
+```
 User Query
    ↓
 Embedding Model
@@ -27,9 +28,10 @@ ChromaDB Vector Search
    ↓
 Context Retrieval
    ↓
-TinyLlama Local LLM
+TinyLlama (local)
    ↓
 Generated Answer
+```
 
 ---
 
