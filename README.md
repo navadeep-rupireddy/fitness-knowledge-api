@@ -10,8 +10,9 @@ Documents → Chunking → Embeddings → ChromaDB → Retriever → Mistral (lo
 
 ## Environment
 
-Tested with Python 3.13+
-Local inference powered by Ollama (Mistral model)
+Tested with Python 3.11
+Local embeddings generated using sentence-transformers
+Vector storage via ChromaDB
 
 ## Status
 
